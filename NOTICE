@@ -1,0 +1,12 @@
+Pynini 2.1.6.post1
+Copyright 2016-2024 Google LLC
+Licensed under the Apache License, Version 2.0.
+
+This repository contains a modified build configuration and prebuilt binaries of
+Pynini 2.1.6.post1. The modifications are MSVC-compatible compiler flags and
+Windows-specific source fixes; see readme.md for details.
+
+Third-party components redistributed in openfst-dlls-win64.zip:
+  OpenFST 1.8.3 (https://www.openfst.org), Apache License 2.0.
+  dlfcn-win32 1.4.1 (https://github.com/dlfcn-win32/dlfcn-win32), MIT License.
+See the LICENSES/ directory in the release archive for their license texts.
